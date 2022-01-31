@@ -5,7 +5,13 @@
 
 - 🌱 I’m currently learning **Data Engineering, Spark, Hadoop and Data Pipeline Scaling**
 
+- 👩‍🚀 Leadership [Solution Engineering Lead at LINE](https://medium.com/linedevth/meet-line-engineer-solution-engineer-team-lead-be8292b044e2)
+
+- ⛑ Micro Services **Event Driven / CQRS / KONG Gateway / Ambassador Gateway**
+
 - 💬 Ask me about **Golang, Event Driven, Kafka, RabbitMQ, Redis Cluster, Scaling ...**
+
+- 🥅 Scaling **Apache Kafka / RabbitMQ / Distributed System**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/goangle/](https://www.linkedin.com/in/goangle/)
 
