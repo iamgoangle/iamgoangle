@@ -9,6 +9,8 @@
 
 - ⛑ Micro Services **Event Driven / CQRS / KONG Gateway / Ambassador Gateway**
 
+- 🪣 Database: **MongoDB Cluster /  MySQL / HBase / Hive**
+
 - 💬 Ask me about **Golang, Event Driven, Kafka, RabbitMQ, Redis Cluster, Scaling ...**
 
 - 🥅 Scaling **Apache Kafka / RabbitMQ / Distributed System**
